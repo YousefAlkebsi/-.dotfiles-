@@ -1,0 +1,4 @@
+.DS_store
+linuxsetup.log
+eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)".pub
